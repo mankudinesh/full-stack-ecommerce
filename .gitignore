@@ -1,0 +1,22 @@
+# React
+ecommerce-project/node_modules/
+ecommerce-project/dist/
+
+# Environment
+ecommerce-project/.env
+ecommerce-project/.env.*
+
+# Spring Boot
+ecommerce-backend/target/
+ecommerce-backend/src/main/resources/application.properties
+
+# IntelliJ
+ecommerce-backend/.idea/
+ecommerce-backend/*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
